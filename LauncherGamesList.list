@@ -1,5 +1,5 @@
 {
 "sourcelike":"https://raw.githubusercontent.com/BiberGames/Launcher/main/sourcelike.list",
-"baum":"PATH TO LIST INFO FILE",
-"sdltest":"PATH TO LIST INFO FILE"
+"baum":"https://raw.githubusercontent.com/BiberGames/Launcher/main/baum.list",
+"sdltest":"https://raw.githubusercontent.com/BiberGames/Launcher/main/sdltest.list"
 }
