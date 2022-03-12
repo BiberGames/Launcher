@@ -2,5 +2,8 @@
 "Name":"Sourcelike",
 "Version":"011",
 "Publisher":"BenjaGames",
-"id":"00000"
+"id":"00000",
+"Banner":"https://raw.githubusercontent.com/BiberGames/Launcher/main/logo.png",
+"Icon":"https://raw.githubusercontent.com/BiberGames/Launcher/main/logo.png",
+"Description":"This is a game like Garra´s mod but in Unity and bad."
 }
