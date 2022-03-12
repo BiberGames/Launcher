@@ -2,5 +2,8 @@
 "Name":"Baum",
 "Version":"000",
 "Publisher":"BenjaGames",
-"id":"00001"
+"id":"00001",
+"Banner":"https://raw.githubusercontent.com/BiberGames/Launcher/main/logo.png",
+"Icon":"https://raw.githubusercontent.com/BiberGames/Launcher/main/logo.png",
+"Description":"A game about cutting down trees."
 }
