@@ -3,10 +3,10 @@
 "baum":"https://raw.githubusercontent.com/BiberGames/Launcher/main/baum.list",
 "sdltest":"https://raw.githubusercontent.com/BiberGames/Launcher/main/sdltest.list",
 "null":"null",
-"null":"null",
-"null":"null",
-"null":"null",
-"null":"null",
-"null":"null",
-"null":"null"
+"null-":"null",
+"null--":"null",
+"null---":"null",
+"null----":"null",
+"null-----":"null",
+"null------":"null"
 }
