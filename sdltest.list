@@ -2,5 +2,8 @@
 "Name":"SDL2 Test",
 "Version":"000",
 "Publisher":"BenjaGames",
-"id":"00002"
+"id":"00002",
+"Banner":"https://raw.githubusercontent.com/BiberGames/Launcher/main/logo.png",
+"Icon":"https://raw.githubusercontent.com/BiberGames/Launcher/main/logo.png",
+"Description":"TEST PROGRAM."
 }
